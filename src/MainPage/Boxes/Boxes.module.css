@@ -1,0 +1,152 @@
+div{
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 10%;
+}
+
+button{
+    background-color: white;
+    box-shadow: 1px 1px 5px 4px rgba(218, 232, 138, 0.296);
+    border-radius: 10%;
+    border-width: 1px;
+    border-color: white;
+}
+
+.colorPop{
+    width:60%;
+    height:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #7788de;
+    border-style: solid;
+    background-color: #aaaadd;
+    z-index:3;
+}
+
+.colorsHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color:#7788de;
+    border-style: solid;
+    top:-30px;
+    padding: 10px;
+    cursor: move;
+    border-radius: 25%;
+}
+
+.marginsPop{
+    width:60%;
+    height:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #723a3a;
+    border-style: solid;
+    background-color: #a93b3b;
+    z-index:3;
+}
+
+.marginsHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color:#723a3a;
+    border-style: solid;
+    top:-30px;
+    padding: 10px;
+    cursor: move;
+    border-radius: 25%;
+}
+
+.templatesPop{
+    width:60%;
+    height:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #795918;
+    border-style: solid;
+    background-color: #ca973e;
+    z-index:3;
+}
+
+.templatesHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color:#af8229;
+    border-style: solid;
+    top:-30px;
+    padding: 10px;
+    cursor: move;
+    border-radius: 25%;
+}
+
+.infoPop{
+    width:60%;
+    height:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #178939;
+    border-style: solid;
+    background-color: #799c66;
+    z-index:3;
+}
+
+.infoHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color:#178939;
+    border-style: solid;
+    top:-30px;
+    padding: 10px;
+    cursor: move;
+    border-radius: 25%;
+}
+
+.writePop{
+    width:60%;
+    height:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #178939;
+    border-style: solid;
+    background-color: #799c66;
+    z-index:3;
+}
+
+.writeHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color:#178939;
+    border-style: solid;
+    top:-30px;
+    padding: 10px;
+    cursor: move;
+    border-radius: 25%;
+}
+
+.xMark{
+    position: absolute;
+    left:96%;
+    top:0%;
+    background-color: #bc2424;
+    color:white;
+    box-shadow: 1px 1px 1px 1px white;
+    border-radius: 10%;
+}

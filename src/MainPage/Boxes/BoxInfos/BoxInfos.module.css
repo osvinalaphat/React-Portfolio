@@ -1,0 +1,117 @@
+.clubsPop{
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #506d6c;
+    border-style: solid;
+    background-color: #6b9e9c;
+    z-index:3;
+}
+
+.clubsHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color: #506d6c;
+    border-style: solid;
+    padding: 10px;
+    cursor: move;
+}
+
+.GPAPop{
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #506d6c;
+    border-style: solid;
+    background-color: #6b9e9c;
+    z-index:3;
+}
+
+.GPAHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color: #506d6c;
+    border-style: solid;
+    padding: 10px;
+    cursor: move;
+}
+
+.sportsPop{
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #506d6c;
+    border-style: solid;
+    background-color: #6b9e9c;
+    z-index:3;
+}
+
+.sportsHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color: #506d6c;
+    border-style: solid;
+    padding: 10px;
+    cursor: move;
+}
+.serviceHoursPop{
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #506d6c;
+    border-style: solid;
+    background-color: #6b9e9c;
+    z-index:3;
+}
+
+.serviceHoursHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color: #506d6c;
+    border-style: solid;
+    padding: 10px;
+    cursor: move;
+}
+.projectsPop{
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:30%;
+    top:30%;
+    z-index: 2;
+    text-align: center;
+    overflow:visible;
+    border-color: #506d6c;
+    border-style: solid;
+    background-color: #6b9e9c;
+    z-index:3;
+}
+
+.projectsHeadbar{
+    background-color: white;
+    text-align: center;
+    border-color: #506d6c;
+    border-style: solid;
+    padding: 10px;
+    cursor: move;
+}
